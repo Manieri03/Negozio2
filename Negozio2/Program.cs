@@ -25,7 +25,7 @@ namespace Negozio2
                 prezzoscontato = spesa - sconto;
                 
             }
-            Console.WriteLine($"La spesa è di {prezzoscontato}, dato lo sconto di {sconto}");
+            Console.WriteLine($"La spesa è di {prezzoscontato}, dato lo sconto di {sconto} ");
             Console.ReadLine();
 
         }
